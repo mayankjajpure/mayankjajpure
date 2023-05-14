@@ -23,6 +23,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankjajpure&show_icons=true&locale=en&layout=compact" alt="mayankjajpure" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankjajpure&show_icons=true&locale=en" alt="mayankjajpure" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankjajpure&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="mayankjajpure" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankjajpure&" alt="mayankjajpure" /></p>
+
