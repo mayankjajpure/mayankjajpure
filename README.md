@@ -29,4 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankjajpure&" alt="mayankjajpure" /></p>
 
 
-<img src="https://komarev.com/ghpvc/?username=prashantpandey9" alt="prashantpandey9" />
+<img src="https://komarev.com/ghpvc/?username=mayankjajpure" alt="mayankjajpure" />
